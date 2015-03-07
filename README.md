@@ -1,5 +1,5 @@
 # MJPEG-SS-WEBUI
-#Current version 0.2 (in development)
+#Current version 0.3 (in development)
 MJPEG-SS-WEBUI is a lightweight, cross-platform MJPEG web user interface for surveillance systems (and other MJPEG streams).
 
 At the present day there are many video devices that save in MJPEG format (for more information about [MJPEG](http://en.wikipedia.org/wiki/Motion_JPEG) ). Many of them are security systems that record camera streams and want to provide a low load, cheap and flexible service. I'm sure it's also possible to convert other video formats to MJPEG.
@@ -25,7 +25,7 @@ Works with [motion] (http://www.lavrsen.dk/foswiki/bin/view/Motion/WebHome)
 - Authentication mechanism
 - User friendly custom stream name configuratino
 
-###0.2 7/03/2015
+###0.3 7/03/2015
 - HTTPS support (henceforth SSL)
 - Non standard port support
 
